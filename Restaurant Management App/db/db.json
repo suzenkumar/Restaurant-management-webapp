@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "name": "Suzen",
+      "email": "suzen@gmail.com",
+      "password": "suzen@123",
+      "id": "8c5e"
+    },
+    {
+      "id": "d21b",
+      "email": "suzenkumarmohanty@gmail.com",
+      "name": "Suzen kumar mohanty",
+      "password": "suzen@123"
+    },
+    {
+      "id": "a7f3",
+      "email": "manu@gmail.com",
+      "name": "Suzen",
+      "password": "123"
+    },
+    {
+      "id": "856b",
+      "name": "suzen",
+      "email": "manu@gmail.com",
+      "password": "suzen@123"
+    },
+    {
+      "id": "76ca",
+      "name": "suzen",
+      "email": "manu@gmail.com",
+      "password": "suzen@123"
+    },
+    {
+      "id": "6df1"
+    },
+    {
+      "id": "72d2",
+      "name": "maa",
+      "email": "maa@gmail.com",
+      "password": "maa"
+    },
+    {
+      "id": "8101"
+    },
+    {
+      "id": "21f8",
+      "name": "suzen",
+      "email": "suzen@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ed35",
+      "name": "suzen",
+      "email": "mohanty@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ab91",
+      "name": "nitya",
+      "email": "nitya@gmai.com",
+      "password": "123"
+    }
+  ],
+  "restsurant": [
+    {
+      "id": "1",
+      "name": "Burger King",
+      "contact": 1111,
+      "address": "Noida sector 50"
+    },
+    {
+      "id": "2",
+      "name": "Domainos",
+      "contact": 2222,
+      "address": "odisha"
+    },
+    {
+      "id": "3",
+      "name": "KFC",
+      "contact": 4444,
+      "address": "UP"
+    },
+    {
+      "id": "fed6",
+      "name": "lotus restro",
+      "address": "balasore",
+      "contact": "70494394333"
+    }
+  ]
+}
